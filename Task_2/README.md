@@ -4,4 +4,3 @@ Student Tasks:
 3. Correct the Terraform configuration.
 4. Configure a Standard SKU static public IP.
 5. Create the required Virtual Network and Subnet.
-6. Execute the following commands
